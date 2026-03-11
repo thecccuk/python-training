@@ -1,0 +1,7 @@
+# output files
+
+*full_co2_timeseries_1959_2060.csv
+
+# cache files and other
+
+__pycache__/
