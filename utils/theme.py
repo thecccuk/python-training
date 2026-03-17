@@ -49,3 +49,22 @@ SCENARIO_COLORS = {
     "Pathway": Colors["vibrant purple"],
     "Historical": Colors["aubergine"],
 }
+
+
+def zero_line(ax, hide_bottom_spine=False):
+    # Get the bottom spine for styling reference
+    spine = ax.spines["bottom"]
+    spine.set_position(("data", 0))
+
+    # Draw the zero line with the spine's properties
+    ax.axhline(
+        0,
+        color=spine.get_edgecolor(),
+        linewidth=spine.get_linewidth(),
+        linestyle=spine.get_linestyle(),
+        zorder=0  # put behind data (optional)
+    )
+
+    # Optionally hide the bottom spine afterwards
+    if hide_bottom_spine:
+        ax.spines["bottom"].set_visible(False)
