@@ -1,6 +1,16 @@
 import matplotlib.pyplot as plt
 from cycler import cycler
 
+import warnings
+from matplotlib import font_manager
+
+warnings.filterwarnings(
+    "ignore",
+    message="findfont: Font family",
+    module=font_manager.__name__
+)
+
+
 Colors = {
     "vibrant purple": "#7041FF",
     "orange": "#FFAC00",
