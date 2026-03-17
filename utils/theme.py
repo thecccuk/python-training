@@ -40,7 +40,7 @@ plt.rcParams["ytick.color"] = Colors["vibrant purple"]
 plt.rcParams["ytick.left"] = False
 plt.rcParams["legend.frameon"] = False
 plt.rcParams["legend.labelcolor"] = Colors["vibrant purple"]
-plt.rcParams["font.family"] = "century gothic"
+plt.rcParams["font.family"] = ["Century Gothic", "DejaVu Sans"]
 
 SCENARIO_COLORS = {
     "Baseline": Colors["orange"],
