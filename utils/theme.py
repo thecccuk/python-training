@@ -1,6 +1,4 @@
 import matplotlib.pyplot as plt
-import plotly.graph_objects as go
-import plotly.io as pio
 from cycler import cycler
 
 Colors = {
