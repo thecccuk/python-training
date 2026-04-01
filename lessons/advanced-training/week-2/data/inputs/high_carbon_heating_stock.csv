@@ -1,0 +1,11 @@
+﻿Dataset name: Heating stock data,,
+Notes: this data contains the stock of high carbon home heating systems in the UK as of 2023.,,
+,,
+Heating system,Heating system type,Stock
+Gas boiler,High carbon,22335759
+Communal gas,High carbon,725329
+Oil boiler,High carbon,1662917
+Gas boiler (electric hot water),High carbon,5987
+Gas other,High carbon,109618
+Gas other (electric hot water),High carbon,85720
+Solid fuel boiler,High carbon,499658
