@@ -1,0 +1,50 @@
+{
+  "January": {
+    "peak_generation": 0.5,
+    "daylight_hours": 7.5
+  },
+  "February": {
+    "peak_generation": 0.64,
+    "daylight_hours": 9.83
+  },
+  "March": {
+    "peak_generation": 0.78,
+    "daylight_hours": 12.2
+  },
+  "April": {
+    "peak_generation": 0.9,
+    "daylight_hours": 14.36
+  },
+  "May": {
+    "peak_generation": 0.97,
+    "daylight_hours": 16.0
+  },
+  "June": {
+    "peak_generation": 1.0,
+    "daylight_hours": 16.89
+  },
+  "July": {
+    "peak_generation": 0.97,
+    "daylight_hours": 16.89
+  },
+  "August": {
+    "peak_generation": 0.9,
+    "daylight_hours": 16.0
+  },
+  "September": {
+    "peak_generation": 0.78,
+    "daylight_hours": 14.36
+  },
+  "October": {
+    "peak_generation": 0.64,
+    "daylight_hours": 12.2
+  },
+  "November": {
+    "peak_generation": 0.5,
+    "daylight_hours": 9.83
+  },
+  "December": {
+    "peak_generation": 0.37,
+    "daylight_hours": 7.5
+  }
+}
