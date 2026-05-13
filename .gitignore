@@ -5,3 +5,7 @@
 # cache files and other
 
 __pycache__/
+
+# working files
+
+*temp.ipynb
