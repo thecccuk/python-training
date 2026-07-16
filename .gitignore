@@ -2,6 +2,7 @@
 
 *full_co2_timeseries_1959_2060.csv
 *outputs/
+
 # cache files and other
 
 __pycache__/
@@ -9,3 +10,7 @@ __pycache__/
 # working files
 
 *temp.ipynb
+
+# vscode settings
+
+.vscode/
