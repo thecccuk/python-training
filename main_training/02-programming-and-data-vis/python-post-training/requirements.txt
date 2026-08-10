@@ -1,0 +1,7 @@
+# Packages needed for the post-training exercises.
+# Install with:   pip install -r requirements.txt
+
+jupyter>=1.0
+pandas>=2.2
+seaborn>=0.13
+matplotlib>=3.10
