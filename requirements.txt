@@ -2,4 +2,7 @@ jupyter
 pandas
 matplotlib
 openpyxl
+ipykernel
 jrpyintroduction
+jrpyprogramming
+jrpyvis
