@@ -6,3 +6,4 @@ ipykernel
 jrpyintroduction
 jrpyprogramming
 jrpyvis
+seaborn
