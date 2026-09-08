@@ -6,4 +6,7 @@ ipykernel
 jrpyintroduction
 jrpyprogramming
 jrpyvis
+jrpybestprac
 seaborn
+pytest
+ruff
