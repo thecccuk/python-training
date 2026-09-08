@@ -7,3 +7,4 @@ jrpyintroduction
 jrpyprogramming
 jrpyvis
 seaborn
+pytest
