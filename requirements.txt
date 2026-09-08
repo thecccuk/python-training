@@ -8,3 +8,4 @@ jrpyprogramming
 jrpyvis
 seaborn
 pytest
+ruff
